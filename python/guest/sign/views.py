@@ -36,6 +36,7 @@ def login_action(request):
     # else:
         # return render(request, 'index.html', {'error': 'username or passworderror!'})
 
+
 @login_required
 def event_manage(request):
     # return render(request, "event_manage.html")
