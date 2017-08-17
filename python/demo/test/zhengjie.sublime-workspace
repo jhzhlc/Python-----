@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"repr\tfunction"
+			],
+			[
+				"fr",
+				"fruits\tstatement"
+			],
+			[
+				"pri",
+				"print〔function〕"
+			],
+			[
+				"fo",
+				"format〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: isn",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Method"
+			],
+			[
+				"install",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"ins",
+				"Build: New Build System"
+			],
+			[
+				"",
+				"Anaconda: Next lint error"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"List Packages",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 374.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'PackageControl.sublime-package'; ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.request.build_opener(urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace('','%20')).read()",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/python/demo/haah.py",
+		"/D/Sublime Text Build 3114/Data/Packages/SyncedSideBar/SyncedSideBar.sublime-settings",
+		"/D/Sublime Text Build 3114/Data/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Administrator/Desktop/python/demo/unittest/zhegn.js",
+		"/D/Sublime Text Build 3114/Data/Packages/Anaconda/Anaconda.sublime-settings",
+		"/D/Sublime Text Build 3114/Data/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Administrator/Desktop/python/demo/unittest/test.py",
+		"/D/Sublime Text Build 3114/Data/Packages/User/Localization.sublime-settings",
+		"/D/Sublime Text Build 3114/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/Desktop/python/demo/unittest/test",
+		"/D/Sublime Text Build 3114/Data/Packages/AutoPEP8/Default.sublime-keymap",
+		"/D/Sublime Text Build 3114/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/Sublime Text Build 3114/Data/Packages/User/SublimeREPL.sublime-settings",
+		"/D/Sublime Text Build 3114/Data/Packages/SidebarSeparator/SidebarSeparator.sublime-settings",
+		"/D/Sublime Text Build 3114/Data/Packages/User/sidebar_separator.sublime-settings",
+		"/C/Users/Administrator/Desktop/python/demo/unittest/JieKou.py",
+		"/D/UI/conf/passwd",
+		"/D/Sublime Text Build 3114/Data/Packages/Pylinter/Pylinter.sublime-settings",
+		"/D/桌面文件/python/资源管理平台PYthon自动化脚本/资源管理.py",
+		"/D/Sublime Text Build 3114/Data/Packages/Pylinter/Default (Windows).sublime-keymap",
+		"/D/Office2013_32_XiTongZhiJia/Sublime Text Build 3126 x64/sublime.py",
+		"/D/Office2013_32_XiTongZhiJia/Sublime Text Build 3126 x64/sublime_plugin.py",
+		"/C/Users/Administrator/Desktop/python/demo.py",
+		"/C/Users/Administrator/Desktop/Setup/.text",
+		"/C/Users/Administrator/Desktop/PDF.py",
+		"/C/Users/Administrator/Desktop/K12-Beta-JieGou.sql",
+		"/D/360安全浏览器下载/vb20170608/vb快速入门通用例（会这个就足以简单编程，再了解控件就能设计。）/Form1.frm",
+		"/D/360安全浏览器下载/vb20170608/vb快速入门通用例（会这个就足以简单编程，再了解控件就能设计。）/工程1.vbp",
+		"/C/Users/Administrator/Desktop/Setup/.data",
+		"/C/Users/Administrator/Desktop/cc_20170527_162851.reg",
+		"/C/Users/Administrator/Desktop/toolClass.py",
+		"/C/Users/Administrator/Desktop/KFCRM.py",
+		"/C/Users/Administrator/Desktop/五万/KnnWriter/knndraw.py",
+		"/C/Users/Administrator/Desktop/五万/KnnWriter/knn.py",
+		"/C/Users/Administrator/Desktop/自动化资源管理化测试文件/python/1.py",
+		"/C/Users/Administrator/Desktop/cc_20170505_131713.reg",
+		"/C/Users/Administrator/Desktop/宏对比.xltm",
+		"/C/Users/Administrator/Desktop/自动化资源管理化测试文件/自定义函数库/DoExcel.vbs",
+		"/C/Users/Administrator/Desktop/201.sql",
+		"/C/Users/Administrator/Desktop/五万/libqrencodebin/Readme-说明.htm",
+		"/C/Users/Administrator/Desktop/sideflow.js",
+		"/D/学习文件/内网外网转换/连内网.bat",
+		"/C/Users/Administrator/Downloads/Test_2017-05-11_Grade7_1494480387783/评分标准_2017-05-11_7_1494480385324.xml",
+		"/C/Users/Administrator/AppData/Local/Temp/Test_2017-05-10_Grade7_1494412315142/评分标准_2017-05-10_7_1494412313625.xml",
+		"/C/Users/Administrator/Desktop/toolClass.pyc",
+		"/C/Users/Administrator/Desktop/qrencode-python-1.01/qrencode-1.01/qr_encode.c",
+		"/C/Users/Administrator/Desktop/qrencode-python-1.01/qrencode-1.01/._setup.py",
+		"/C/Users/Administrator/Desktop/qrencode-python-1.01/qrencode-1.01/._qr_encode.c",
+		"/C/Users/Administrator/Desktop/qrencode-python-1.01/qrencode-1.01/qrencode/__init__.py",
+		"/C/Users/Administrator/Desktop/五万/fba0aa79a9aa41a6835f339f5b964b60(1)/11 (2).jpg",
+		"/C/Users/Administrator/Desktop/自动化资源管理化测试文件/python/K12自动化测试-外网-python/K12-外网.py",
+		"/C/Users/Administrator/Desktop/数据库结构/190.sql",
+		"/D/学习文件/liunx服务器配置/Liunx常用命名.txt",
+		"/C/Users/Administrator/Desktop/python/zhihu.py",
+		"/C/Users/Administrator/Documents/Tencent Files/1210755610/FileRecv/acts_k12_error.2017-04-16.txt",
+		"/C/Users/Administrator/Desktop/试卷3评双评逻辑.py",
+		"/C/Users/Administrator/Desktop/yuejuian.sql",
+		"/C/Users/Administrator/Desktop/Liunx常用命名.txt",
+		"/C/Users/Administrator/Desktop/Liunx常用命名.txt.lnk",
+		"/C/Users/Administrator/Desktop/11",
+		"/C/Users/Administrator/Desktop/server.xml",
+		"/C/Users/Administrator/Desktop/五万/lmon16f.c",
+		"/C/Users/Administrator/Desktop/自动化资源管理化测试文件/k12-配置管理/K12-peizhiguanli/Action1/Script.mts",
+		"/C/Users/Administrator/Desktop/引用数据源.txt",
+		"/C/Users/Administrator/Desktop/190.sql",
+		"/C/Users/Administrator/Desktop/191.sql",
+		"/C/Users/Administrator/Desktop/数据库结构/yuejuan.sql",
+		"/C/Users/Administrator/Desktop/自动化资源管理化测试文件/K12-资源管理/K12-ZhiYuanGuanLi/Action3/Script.mts",
+		"/C/Users/Administrator/Desktop/新建文本文档 (3).txt",
+		"/C/Users/Administrator/Desktop/test201_170217_0902.nmon",
+		"/E/BaiduYunDownload/P049校对完/3.网络分析技术揭秘：原理、实践与WinPcap深入解析.azw3",
+		"/C/Users/Administrator/Desktop/自动化资源管理化测试文件/K12-资源管理/K12-ZhiYuanGuanLi/Action1/Resource.mtr",
+		"/C/Users/Administrator/Desktop/自动化资源管理化测试文件/K12-资源管理/K12-ZhiYuanGuanLi/Action1/Script.mts",
+		"/C/Users/Administrator/Desktop/自动化资源管理化测试文件/K12-资源管理/K12-ZhiYuanGuanLi/Action2/Script.mts",
+		"/C/Users/Administrator/Desktop/StudentImportCompete(Demo).xlsx",
+		"/C/Users/Administrator/Desktop/baidu.py",
+		"/C/Users/Administrator/Desktop/q.py",
+		"/D/workspace/acts_math_new/src/java/com/acts/web/analysis/action/ReportTeacherAction.sublime-project",
+		"/C/Users/Administrator/Desktop/2.py",
+		"/C/Python27/lib/subprocess.py",
+		"/D/Sublime Text Build 3114/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Administrator/Desktop/python/1.py",
+		"/C/Users/Administrator/Documents/Tencent Files/1210755610/FileRecv/MobileFile/mpFile/FileRecv",
+		"/C/Users/Administrator/Desktop/python/JProfiler.lnk",
+		"/C/Users/Administrator/Desktop/python/TestAutomation.py",
+		"/C/Users/Administrator/Desktop/python/setuptools-27.2.0/easy_install.py",
+		"/C/Python27/Lib/site-packages/selenium/webdriver/firefox/webdriver.py",
+		"/C/Users/Administrator/Desktop/zhengjie.bat",
+		"/C/Users/Administrator/Desktop/python/Brown.py",
+		"/C/Users/Administrator/Desktop/Brown.py",
+		"/C/Users/Administrator/Desktop/TestAutomation.py",
+		"/C/Users/Administrator/Desktop/TestAutomation",
+		"/C/Users/Administrator/Desktop/新建文件夹/z.zip",
+		"/C/Users/Administrator/Desktop/新建文件夹/新建文件d夹.rar",
+		"/C/Users/Administrator/Desktop/新建文件夹/新建文件夹.rar",
+		"/C/Users/Administrator/Desktop/新建文件夹/zip.rar",
+		"/C/Users/Administrator/Desktop/1.py",
+		"/D/workspace/acts_math_new/src/java/com/acts/web/analysis/action/ImportScoreAction.java",
+		"/C/Users/Administrator/Desktop/2",
+		"/C/Users/Administrator/Desktop/chuxu",
+		"/C/Users/Administrator/Desktop/K12iedu平台教务管理需求.docx",
+		"/C/Users/Administrator/Documents/Tencent Files/1210755610/FileRecv/000000.ts",
+		"/C/Users/Administrator/Desktop/chuxue.py",
+		"/C/Users/Administrator/Desktop/1111.py",
+		"/C/Users/Administrator/Desktop/1.png",
+		"/C/Users/Administrator/Desktop/Sublime Text Build 3114/22.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"班级名称",
+			"teacher_id",
+			"task_teacher_id",
+			"techer",
+			"//202.136.60.35:8881/acts_k12/sys/schoolRegist_form.",
+			"http://202.136.60.35:8881/acts_k12/error/noAuthorization.jsp",
+			":]]",
+			"2",
+			"p",
+			"plan",
+			"阅卷",
+			"开始阅卷",
+			"2：",
+			"scp root@192.168.1.190:/home/fileserver/acts_online_marking_1.0/file/pic/81017feb5238405f906c0aa9b0aebe2b/81017feb5238405f906c0aa9b0aebe2b.zip",
+			"maxHttpHeaderSize",
+			"Connector",
+			"Connector ",
+			"minProcessors",
+			"score",
+			"得分",
+			"主观题",
+			"主观题得分",
+			"缴费",
+			"基础",
+			"基础缴费",
+			"赠送",
+			"赠送报告",
+			"剩余",
+			"剩余次",
+			"赠送次",
+			"赠送次数",
+			"报赠送",
+			"赠送",
+			"报告赠送",
+			"登录",
+			"70",
+			"\")",
+			"7",
+			"hehe",
+			"2",
+			"\")"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "zhengjie.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ci",
+				"C:\\Users\\Administrator\\Desktop\\python\\demo\\unittest\\JieKou.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\workspace\\acts_math_new\\src\\java\\com\\acts\\web\\analysis\\action\\ReportTeacherAction.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
